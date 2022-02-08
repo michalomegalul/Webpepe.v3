@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+	background-color: rgb(0,0,0);
+}
+.omegalul {
+    text-align: center;
+    color: wheat;
+    
+}
+.Texta {
+
+	text-align: center;
+    border: 50px double black;
+	color:rgb(59, 155, 46);
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+ul{
+    display:inline-block;
+    border:1px solid rgb(255, 0, 0);
+    padding:20px;
+    color: blueviolet;
+}
